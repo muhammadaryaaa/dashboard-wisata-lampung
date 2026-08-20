@@ -18,7 +18,7 @@ Dashboard dapat diakses secara online melalui Streamlit Community Cloud setelah 
 
 
 
-> Link aplikasi: tambahkan URL Streamlit Anda di bagian ini setelah deployment.
+> Link aplikasi: https://dashboard-wisata-lampung.streamlit.app
 
 
 
